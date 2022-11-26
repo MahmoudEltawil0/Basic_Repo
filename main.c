@@ -1,6 +1,6 @@
 int main
 {
-
+	new command
 	/*develop after change*/
 	int k  = 500;
 	int z = x;
