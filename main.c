@@ -1,7 +1,7 @@
 int main
 {
-	/*develop*/
-	char y = 12;
+	/*master*/
+	float  x = 12;
 	int z = x;
 	int y = z +x;
 	
